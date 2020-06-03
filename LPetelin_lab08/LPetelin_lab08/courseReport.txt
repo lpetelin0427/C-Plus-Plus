@@ -1,0 +1,53 @@
+            Course name: Arrowhead
+Number of holes: 18
+Course Rating: 69.5
+Course Slope: 120.
+Slope Percent: 1.062
+            Course name: Sanctuary
+Number of holes: 18
+Course Rating: 64.2
+Course Slope: 112.
+Slope Percent: 0.991
+            Course name: Deer Pass
+Number of holes: 18
+Course Rating: 66.7
+Course Slope: 124.
+Slope Percent: 1.097
+            Course name: The Elms
+Number of holes: 18
+Course Rating: 68.2
+Course Slope: 115.
+Slope Percent: 1.018
+            Course name: Tam O'Shanter
+Number of holes: 18
+Course Rating: 68.8
+Course Slope: 114.
+Slope Percent: 1.009
+            Course name: Sable Creek Black
+Number of holes: 9
+Course Rating: 34.9
+Course Slope: 120.
+Slope Percent: 1.062
+            Course name: Tannehauf
+Number of holes: 9
+Course Rating: 67.3
+Course Slope: 123.
+Slope Percent: 1.088
+            Course name: Westfield South
+Number of holes: 18
+Course Rating: 69.2
+Course Slope: 124.
+Slope Percent: 1.097
+            Course name: Sable Creek Maroon
+Number of holes: 9
+Course Rating: 34.2
+Course Slope: 118.
+Slope Percent: 1.044
+            Course name: Sable Creek Maroon
+Number of holes: 9
+Course Rating: 34.2
+Course Slope: 118.
+Slope Percent: 1.044
+
+
+Courses Processed: 10

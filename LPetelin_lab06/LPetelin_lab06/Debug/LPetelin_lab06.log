@@ -1,0 +1,5 @@
+﻿  LPetelin_lab06.cpp
+c:\users\lpete\desktop\school work 3rd semester\adv c++\homework\lpetelin_lab06\lpetelin_lab06\lpetelin_lab06.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\lpete\desktop\school work 3rd semester\adv c++\homework\lpetelin_lab06\lpetelin_lab06\lpetelin_lab06.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  LPetelin_lab06.vcxproj -> C:\Users\lpete\Desktop\School Work 3rd Semester\Adv C++\Homework\LPetelin_lab06\Debug\LPetelin_lab06.exe
+  LPetelin_lab06.vcxproj -> C:\Users\lpete\Desktop\School Work 3rd Semester\Adv C++\Homework\LPetelin_lab06\Debug\LPetelin_lab06.pdb (Full PDB)
